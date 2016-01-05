@@ -25,7 +25,7 @@ def max_triangle(triangle):
 			current_position-=1
 		total = 0
 
-	while positions[-1] != 0:
+	
 		
 
 
